@@ -1,3 +1,4 @@
 pandas
 streamlit
 plotly-express
+matplotlib==3.4.3
