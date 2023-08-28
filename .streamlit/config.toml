@@ -1,0 +1,5 @@
+[server]
+port = 8501
+headless = false
+enableCORS = false
+folderWatchBlacklist = ['../notebooks']
